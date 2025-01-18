@@ -1,5 +1,6 @@
 locals {
   root_folder_files = [
+    "gallery.tf",
     "main.tf",
     "variables.tf",
     "versions.tf"
