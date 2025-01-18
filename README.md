@@ -1,0 +1,1 @@
+# terraform-github-codebase-terraform-azure-compute-core
